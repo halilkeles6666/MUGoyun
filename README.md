@@ -1,50 +1,60 @@
-# Welcome to your Expo app 👋
+# 🚀 MUGoyun: Yazılımcı Kariyer Simülasyonu
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MUGoyun, bir yazılım öğrencisinin kariyer basamaklarını tırmanışını oyunlaştırma (gamification) dinamikleriyle sunan, React Native ve Expo ile geliştirilmiş profesyonel bir mobil simülasyon uygulamasıdır.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎮 Projenin Amacı ve Özellikleri
+Bu uygulama, bir yazılımcının günlük hayattaki çalışma, gelişim ve stratejik karar alma süreçlerini bir "Kariyer RPG" deneyimine dönüştürür.
 
-   ```bash
-   npm install
-   ```
+### 🕹️ Oyunlaştırma (Gamification) Detayları:
+* **XP & Seviye Sistemi:** Tamamlanan her proje tecrübe puanı (XP) kazandırır. Puanlar biriktikçe seviye atlarsınız.
+* **Dinamik Kariyer Rütbeleri:** Seviyenize göre rütbeniz "Junior Intern"den başlayarak "Dev Legend / CTO"ya kadar yükselir.
+* **Ekonomi & Mağaza (Gold System):** Projelerden kazandığınız altınlarla mağazadan enerji tazeleyen "Premium Coffee" veya kalıcı XP çarpanı sağlayan "Clean Code Book" alabilirsiniz.
+* **Enerji Yönetimi:** Her projenin bir enerji maliyeti vardır. Enerji bittiğinde mola vermeniz veya mağazadan takviye almanız gerekir.
+* **Risk Yönetimi (Bug Sistemi):** Projelerin zorluğuna göre "Bug Risk" oranı değişir. Hatalı kod gönderirseniz altın kaybedersiniz!
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🎥 Tanıtım Videosu (Elevator Pitch)
+Uygulamanın ana özelliklerini, arayüzünü ve oynanış dinamiklerini içeren 1 dakikalık tanıtım videosu:
 
-In the output, you'll find options to open the app in a
+👉 [YouTube Tanıtım Videosunu İzle (Shorts)](https://youtube.com/shorts/7pCDrkcm4KA)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📦 APK Dosyası (İndir ve Dene)
+Uygulamanın Android cihazlarda test edilebilmesi için üretilen güncel APK dosyasına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-## Get a fresh project
+👉 [MUGoyun v1.0.0 APK Dosyasını İndir](https://github.com/halilkeles6666/MUGoyun/releases/latest)
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 🛠️ Kurulum ve Çalıştırma (Geliştiriciler İçin)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1.  **Depoyu Klonlayın:**
+    ```bash
+    git clone [https://github.com/halilkeles6666/MUGoyun.git](https://github.com/halilkeles6666/MUGoyun.git)
+    cd MUGoyun
+    ```
+2.  **Bağımlılıkları Yükleyin:**
+    ```bash
+    npm install
+    ```
+3.  **Uygulamayı Başlatın:**
+    ```bash
+    npx expo start
+    ```
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 👥 Kullanıcı Geri Bildirim Raporu
+Uygulama, geliştirme aşamasında farklı kullanıcı profillerine test ettirilmiştir:
+* **Esra (Öğrenci):** "Rütbe sistemi çok motive edici, seviye atlamak gerçek bir başarı hissi veriyor."
+* **Emre (Oyuncu):** "Mağaza ve altın ekonomisi oyun döngüsünü çok akıcı kılmış."
+* **Volkan (Kıdemli Yazılımcı):** "Proje isimleri ve bug riski sistemi gerçek dünya tecrübesini yansıtıyor."
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👤 Hazırlayan
+**Halil Keleş** *3. Sınıf Yazılım Mühendisliği Öğrencisi* GitHub: [@halilkeles6666](https://github.com/halilkeles6666)
